@@ -1,6 +1,7 @@
 ### Hi, I am Mario Varganov! 👋
 
 <!--
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mario.varganov/)
 **MarioVarganov/MarioVarganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
